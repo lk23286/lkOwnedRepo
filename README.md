@@ -6,3 +6,7 @@
 **this is a Bold text**
 
 ~~Thi is a striketrough example~~
+
+>Blockquotes can also be nested..
+>> This is the nested part
+>>>and more 
